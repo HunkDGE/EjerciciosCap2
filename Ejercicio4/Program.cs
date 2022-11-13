@@ -1,4 +1,4 @@
-﻿namespace ejercicio2_15
+﻿namespace ejercicio2_16
 {
     public class Program
     {
